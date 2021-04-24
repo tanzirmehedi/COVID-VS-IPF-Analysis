@@ -1,0 +1,14 @@
+P adj
+------------
+UP-2
+Down-81
+
+Total: 83
+
+
+P value
+------------
+UP-926
+Down-799
+
+Total: 1725

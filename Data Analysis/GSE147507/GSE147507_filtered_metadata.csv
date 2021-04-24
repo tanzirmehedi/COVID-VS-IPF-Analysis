@@ -1,0 +1,70 @@
+,characteristics,cell line,cell type,treatment,time point,strain
+GSM4432378,Mock treated NHBE cells,NHBE,primary human bronchial epithelial cells,Mock treatment,24hrs after treatment,NA
+GSM4432379,Mock treated NHBE cells,NHBE,primary human bronchial epithelial cells,Mock treatment,24hrs after treatment,NA
+GSM4432380,Mock treated NHBE cells,NHBE,primary human bronchial epithelial cells,Mock treatment,24hrs after treatment,NA
+GSM4432381,SARS-CoV-2 infected NHBE cells,NHBE,primary human bronchial epithelial cells,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4432382,SARS-CoV-2 infected NHBE cells,NHBE,primary human bronchial epithelial cells,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4432383,SARS-CoV-2 infected NHBE cells,NHBE,primary human bronchial epithelial cells,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4432384,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,24hrs after treatment,NA
+GSM4432385,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,24hrs after treatment,NA
+GSM4432386,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,24hrs after treatment,NA
+GSM4432387,SARS-CoV-2 infected A549 cells,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 0.2),NA,USA-WA1/2020
+GSM4432388,SARS-CoV-2 infected A549 cells,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 0.2),NA,USA-WA1/2020
+GSM4432389,SARS-CoV-2 infected A549 cells,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 0.2),NA,USA-WA1/2020
+GSM4432390,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,24hrs after treatment,NA
+GSM4432391,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,24hrs after treatment,NA
+GSM4432392,RSV infected A549 cells,A549,Lung adenocarcinoma,RSV infected (MOI 15),NA,A2
+GSM4432393,RSV infected A549 cells,A549,Lung adenocarcinoma,RSV infected (MOI 15),NA,A2
+GSM4432394,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,9hrs after treatment,NA
+GSM4432395,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,9hrs after treatment,NA
+GSM4432396,IAV infected A549 cells,A549,Lung adenocarcinoma,IAV infected (MOI 5),NA,A/Puerto Rico/8/1934 (H1N1)
+GSM4432397,IAV infected A549 cells,A549,Lung adenocarcinoma,IAV infected (MOI 5),NA,A/Puerto Rico/8/1934 (H1N1)
+GSM4462336,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462337,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462338,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462339,SARS-CoV-2 infected A549 cells,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4462340,SARS-CoV-2 infected A549 cells,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4462341,SARS-CoV-2 infected A549 cells,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4462342,Mock treated A549 cells trasnduced with a vector expressing human ACE2,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462343,Mock treated A549 cells trasnduced with a vector expressing human ACE2,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462344,Mock treated A549 cells trasnduced with a vector expressing human ACE2,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462345,SARS-CoV-2 infected A549 cells trasnduced with a vector expressing human ACE2,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 0.2),NA,USA-WA1/2020
+GSM4462346,SARS-CoV-2 infected A549 cells trasnduced with a vector expressing human ACE2,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 0.2),NA,USA-WA1/2020
+GSM4462347,SARS-CoV-2 infected A549 cells trasnduced with a vector expressing human ACE2,A549,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 0.2),NA,USA-WA1/2020
+GSM4462348,Mock treated Calu-3 cells,Calu-3,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462349,Mock treated Calu-3 cells,Calu-3,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462350,Mock treated Calu-3 cells,Calu-3,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462351,SARS-CoV-2 infected Calu-3 cells,Calu-3,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4462352,SARS-CoV-2 infected Calu-3 cells,Calu-3,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4462353,SARS-CoV-2 infected Calu-3 cells,Calu-3,Lung adenocarcinoma,SARS-CoV-2 infected (MOI 2),NA,USA-WA1/2020
+GSM4462354,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462355,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462356,Mock treated A549 cells,A549,Lung adenocarcinoma,Mock treatment,NA,NA
+GSM4462357,RSV infected A549 cells,A549,Lung adenocarcinoma,RSV infected (MOI 2),NA,A2
+GSM4462358,RSV infected A549 cells,A549,Lung adenocarcinoma,RSV infected (MOI 2),NA,A2
+GSM4462359,RSV infected A549 cells,A549,Lung adenocarcinoma,RSV infected (MOI 2),NA,A2
+GSM4462360,HPIV3 infected A549 cells,A549,Lung adenocarcinoma,HPIV3 infected (MOI 3),NA,JS
+GSM4462361,HPIV3 infected A549 cells,A549,Lung adenocarcinoma,HPIV3 infected (MOI 3),NA,JS
+GSM4462362,HPIV3 infected A549 cells,A549,Lung adenocarcinoma,HPIV3 infected (MOI 3),NA,JS
+GSM4462363,Mock treated NHBE cells,NA,primary human bronchial epithelial cells,Mock treatment,12hrs after treatment,NA
+GSM4462364,Mock treated NHBE cells,NA,primary human bronchial epithelial cells,Mock treatment,12hrs after treatment,NA
+GSM4462365,Mock treated NHBE cells,NA,primary human bronchial epithelial cells,Mock treatment,12hrs after treatment,NA
+GSM4462366,Mock treated NHBE cells,NA,primary human bronchial epithelial cells,Mock treatment,12hrs after treatment,NA
+GSM4462367,IAV infected NHBE cells,NA,primary human bronchial epithelial cells,IAV infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1)
+GSM4462368,IAV infected NHBE cells,NA,primary human bronchial epithelial cells,IAV infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1)
+GSM4462369,IAV infected NHBE cells,NA,primary human bronchial epithelial cells,IAV infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1)
+GSM4462370,IAV infected NHBE cells,NA,primary human bronchial epithelial cells,IAV infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1)
+GSM4462371,IAVdNS1 infected NHBE cells,NA,primary human bronchial epithelial cells,IAVdNS1 infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1) (dNS1)
+GSM4462372,IAVdNS1 infected NHBE cells,NA,primary human bronchial epithelial cells,IAVdNS1 infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1) (dNS1)
+GSM4462373,IAVdNS1 infected NHBE cells,NA,primary human bronchial epithelial cells,IAVdNS1 infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1) (dNS1)
+GSM4462374,IAVdNS1 infected NHBE cells,NA,primary human bronchial epithelial cells,IAVdNS1 infected (MOI 3),12hrs after treatment,A/Puerto Rico/8/1934 (H1N1) (dNS1)
+GSM4462375,human IFNB treated NHBE cells,NA,primary human bronchial epithelial cells,human IFNB treatment (100U/ml),4hrs after treatment,NA
+GSM4462376,human IFNB treated NHBE cells,NA,primary human bronchial epithelial cells,human IFNB treatment (100U/ml),4hrs after treatment,NA
+GSM4462377,human IFNB treated NHBE cells,NA,primary human bronchial epithelial cells,human IFNB treatment (100U/ml),6hrs after treatment,NA
+GSM4462378,human IFNB treated NHBE cells,NA,primary human bronchial epithelial cells,human IFNB treatment (100U/ml),6hrs after treatment,NA
+GSM4462379,human IFNB treated NHBE cells,NA,primary human bronchial epithelial cells,human IFNB treatment (100U/ml),12hrs after treatment,NA
+GSM4462380,human IFNB treated NHBE cells,NA,primary human bronchial epithelial cells,human IFNB treatment (100U/ml),12hrs after treatment,NA
+GSM4462413,Lung biopsy for heatly negative control,NA,Lung Biopsy,"No treatment - healthy 77 years old, male",NA,NA
+GSM4462414,Lung biopsy for heatly negative control,NA,Lung Biopsy,"No treatment - healthy 72 years old, male",NA,NA
+GSM4462415,Lung sample from postmortem COVID-19 patient,NA,Lung Biopsy,No treatment; >60 years old male COVID-19 deceased patient,NA,NA
+GSM4462416,Lung sample from postmortem COVID-19 patient,NA,Lung Biopsy,No treatment; >60 years old male COVID-19 deceased patient,NA,NA
